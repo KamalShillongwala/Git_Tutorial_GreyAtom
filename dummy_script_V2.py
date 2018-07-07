@@ -3,9 +3,8 @@
 first_var = 1
 second_var = 2
 fourth_var =3
-
-Test = 1	
+fifth_var = 4
+Test = 6
 ############  Do some computation ###################
 
 third_var = first_var + second_var
-fifth_var = third_var*fourth_var
